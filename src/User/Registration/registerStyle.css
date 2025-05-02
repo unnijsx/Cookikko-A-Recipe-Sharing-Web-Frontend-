@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+    overflow: auto;
+    z-index: 10;
+    padding: 10px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-self: center ;
+    background-color: #cfd1f1;
+}
